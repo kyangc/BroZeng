@@ -1,5 +1,3 @@
-package com.duitang.main.activity.publish;
-
 /**
  * Created by chengkangyang on 15/12/23.
  */
